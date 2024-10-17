@@ -33,7 +33,7 @@ const About = () => {
 
 
                     <AiOutlineCloudDownload />
-                    <a href="https://drive.google.com/file/d/19bFus4Hz6OPefYm9-F0aPUf4Bo-9-02X/view?usp=drivesdk" target="_blank"  download>Download CV</a>
+                    <a href="https://drive.google.com/file/d/1MpmKPqPBl1ynIvnXQTZutytDexxRX71F/view?usp=sharing" target="_blank"  download>Download CV</a>
                 </div>
             </div>
         </div>
