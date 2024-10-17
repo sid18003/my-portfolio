@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import Dp from "../assets/insta_upload.jpg";
+import Dp from "../assets/siddh.png";
 import { MdOutlineArrowRightAlt } from 'react-icons/md';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
